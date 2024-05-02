@@ -6,7 +6,7 @@ const News = () => {
       <Heading as="h1" size="xl">Latest News</Heading>
       <Box p={5} shadow="md" borderWidth="1px">
         <Heading size="md">Local Event Draws Huge Crowd</Heading>
-        <Text mt={4}>This weekend's local event was a success, drawing a crowd of over 5,000 attendees.</Text>
+        <Text mt={4}>The event, which took place at the city park, attracted over 5,000 attendees from various parts of the state. Highlights included live music performances, a variety of food trucks offering local and international cuisine, and a spectacular fireworks display to conclude the evening.</Text>
         <Image src="https://source.unsplash.com/random/800x600?event" alt="Event" />
       </Box>
       <Box p={5} shadow="md" borderWidth="1px">
